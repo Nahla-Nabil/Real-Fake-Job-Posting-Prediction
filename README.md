@@ -110,6 +110,10 @@ Users are encouraged to verify employers through official and trusted channels.
 
 ## 👩‍💻 Author
 
+**Team Leader: Nahla Nabil**
+**Group 1**
+**Samsung Innovation Campus 2025**
+
 - GitHub: https://github.com/NahlaNabil  
 - Hugging Face: https://huggingface.co/NahlaNabil  
 
