@@ -81,12 +81,6 @@ This dataset is widely used in academic research and is well-suited for transfor
 ---
 
 ## 🏗️ System Architecture
-
-
-
----
-
-## 🏗️ System Architecture
 Job Description Text
 ↓
 Tokenization & Preprocessing
