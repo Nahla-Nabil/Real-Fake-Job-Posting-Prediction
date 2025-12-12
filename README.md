@@ -50,6 +50,42 @@ The system provides:
 
 ---
 
+## 📊 Dataset
+
+The model was trained and evaluated using a publicly available dataset from **Kaggle**, specifically designed for job fraud detection.
+
+**Dataset name:**  
+**Real or Fake Job Posting Prediction**
+
+**Source:**  
+https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
+
+**Dataset details:**
+- Approximately **18,000** job postings  
+- Binary labels: **Real (0)** and **Fake (1)**  
+- Textual fields:
+  - Job title  
+  - Company profile  
+  - Job description  
+  - Requirements  
+  - Benefits  
+- Additional metadata such as employment type, education level, and telecommuting indicator  
+
+**Preprocessing steps:**
+- Combined multiple text fields into a single input sequence  
+- Cleaned missing and incomplete records  
+- Balanced classes to reduce bias during training  
+
+This dataset is widely used in academic research and is well-suited for transformer-based NLP models.
+
+---
+
+## 🏗️ System Architecture
+
+
+
+---
+
 ## 🏗️ System Architecture
 Job Description Text
 ↓
