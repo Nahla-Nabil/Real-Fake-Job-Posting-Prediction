@@ -102,21 +102,6 @@ Confidence Score + Explainable Signals
 - **Frontend:** Streamlit  
 - **Deployment:** Hugging Face Spaces  
 
----
-
-## 📁 Project Structure
-
-job-fraud-classifier/
-│
-├── app.py # Streamlit application
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-│
-├── assets/
-│ └── jobguard.png # Project image
-
-
-> ⚠️ Model weights are hosted on Hugging Face Hub and loaded dynamically.
 
 ---
 
